@@ -17,11 +17,12 @@ git clone https://github.com/masonkadem/cyber_labs
 
 # install project  
 conda env create -n ENVNAME --file environment.yml
-
-
  ```
- Next, navigate to the jupyter notebook. 
  
+ Next, navigate to the jupyter notebook. 
+ ```
+ jupyter cyber_ml.ipynb
+  ```
  
  ### Book Citation  
  ```
