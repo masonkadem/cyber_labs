@@ -1,6 +1,6 @@
 <div align="center">  
 
-[![Book](http://img.shields.io/badge/paper-arxiv.1001.2234-B31B1B.svg)]([https://www.nature.com/articles/nature14539](https://leanpub.com/pearlsandperilsofml))
+[![Book]([https://www.nature.com/articles/nature14539](https://leanpub.com/pearlsandperilsofml))
 
  </div>
 
