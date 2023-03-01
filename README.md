@@ -1,6 +1,6 @@
 <div align="center">  
 
-![Book]([https://www.nature.com/articles/nature14539](https://leanpub.com/pearlsandperilsofml))
+![Book](https://leanpub.com/pearlsandperilsofml)
 
  </div>
 
