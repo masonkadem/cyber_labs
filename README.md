@@ -36,10 +36,8 @@ conda env create -n ENVNAME --file environment.yml
  ### Software Citation  
  ```
  @software{Mason_Kadem_ML_software,
-   author = {Lisa, Mona and Bot, Hew},
-  doi = {10.5281/zenodo.1234},
-  month = {12},
-  title = {{My Research Software}},
+  author = {Mason Kadem},
+  title = {{ML Software}},
   url = {https://github.com/masonkadem/cyber_labs},
   version = {1.0.1},
   year = {2023}
