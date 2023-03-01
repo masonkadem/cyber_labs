@@ -24,14 +24,17 @@ conda env create -n ENVNAME --file environment.yml
  
  
  ### Book Citation  
+ ```
  @book{Mason_Kadem_ML_book,
   title={Pearls and Perils of Machine Learning},
   author={Mason Kadem},
   url={https://leanpub.com/pearlsandperilsofml},
   year={2023}
 }
+```
 
  ### Software Citation  
+ ```
  @software{Mason_Kadem_ML_software,
    author = {Lisa, Mona and Bot, Hew},
   doi = {10.5281/zenodo.1234},
@@ -41,3 +44,4 @@ conda env create -n ENVNAME --file environment.yml
   version = {1.0.1},
   year = {2023}
 }
+```
